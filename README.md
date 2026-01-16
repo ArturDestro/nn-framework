@@ -27,7 +27,7 @@ Principais funcionalidades
 
 * Python 3.8+ (testado com 3.11/3.13)
 * pip
-* Dependências (opcionais): `numpy`, `pytest` (veja `requirements.txt`)
+* Dependências: `numpy`, `pytest`
 
 ---
 
